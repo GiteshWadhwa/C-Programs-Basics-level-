@@ -1,0 +1,74 @@
+                        java core 
+.first of all create .java file and then .class file(byte code) by compiling after this we have jvm after this we have output
+.java code _note pad
+.compiler _javac
+.run_ jvm _java
+.software _jdk(java development kit)
+java was developed in 1991
+it was developed by james Gosling at Sun Microsystem,Inc.
+firstly its name is oak
+sun Microsystem company was developed in 1982
+Vinod khosla was the co founder of sun Microsystem
+platform is an environment on which we run progam on computer
+(os)
+on january 27,2010 sun microsystem was aquired by Oracle Corporation for US$7.4 billion
+slogan of k
+java:java is every where!!
+//JAVA resides in mobiles,client machines,server machines,embedded devices,smart phones,cioud,etc
+// it shares the same basic features of the language and libraries.
+//Principle of JAVA :Write once,Run Any Where(WORA).
+What is library?
+//java Library is a collection of predefined classes
+//you can use these classes either by inheriting them or by instantiating them.
+
+JAVA flavours
+JAVA SE(standard edition)(Core Java)
+JAVA EE(Advance Java)
+JAVA ME(Micro Edition for mobiles)
+Java 1.0    May 1996   212 classes  8packages
+java 1.1    feb 1997   503 classes  23packages
+java 2.0    dec 1998   1520 classes 59packages   
+java 5.0    sep 2004   3562classes  166packages
+java 6.0    Dec 2006   3792classes  203packages
+java 7.0    jul2011   4024classes  209 packages
+(jo ek tarha ka kaam karne wali classes h unko hm ek taraf rakhtae hai or inko hmm packages kehte hai>>);;
+ 
+
+FEATURES OF JAVA
+simple 
+object orirnter language
+Distributed
+interperated
+robust
+secure
+portable
+Multi_threaded
+Garbage Collector
+
+
+1.classfile 1java class ko represent karegi.
+(.class file given to any one)
+os can not read this.
+we use jvm.
+interperator takes all lines as reading translate and then give it to os..
+compiler takes all program as read and compile all..
+java made a softwre which is both compiler type and interperator type..
+first it tkaes first line translate it and give it to os ..
+process is continue..
+(jvm)>>interperator(just in time compiler>>)..part of jvm software..
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
